@@ -5,8 +5,8 @@
 //    static int onyeddiyeyaxin(int num1, int num2)
 //    {
 
-//        int eded1 = Math.Abs(num1 - 20);
-//        int eded2 = Math.Abs(num2 - 20);
+//        int eded1 = Math.Abs(num1 - 17);
+//        int eded2 = Math.Abs(num2 - 17);
 
 
 //        if (eded1 < eded2)
